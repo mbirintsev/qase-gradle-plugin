@@ -12,8 +12,8 @@
 
 For your convenience, I created 2 POC projects:
 
-- [Junit/TestNG](https://github.com/mbirintsev/qase-java/qase-gradle-plugin-poc-junit)
-- [Cucumber](https://github.com/mbirintsev/qase-java/qase-gradle-plugin-poc-cucumber)
+- [Junit/TestNG](https://github.com/mbirintsev/qase-gradle-plugin-poc-junit)
+- [Cucumber](https://github.com/mbirintsev/qase-gradle-plugin-poc-cucumber)
 
 To test the plugin, kindly, utilize the command below:
 
